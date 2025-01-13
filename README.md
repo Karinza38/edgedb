@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <a href="https://www.edgedb.com">
     <img src="https://www.edgedb.com/github_banner.png">
   </a>
